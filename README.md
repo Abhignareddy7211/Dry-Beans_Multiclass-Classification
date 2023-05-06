@@ -6,7 +6,7 @@ Currently, 3 algorithms have been used for Classification:
 2)Support Vector Machines
 3)Neural Networks
 
-The data for the analysis is taken from UC Irvine’s Machine Learning Repository.
+The data for the analysis is taken from UC Irvine’s Machine Learning Repository's
 Dry Beans Dataset:- https://archive-beta.ics.uci.edu/dataset/602/dry+bean+dataset
 
 This work has been done as part of the (IE 7300)Machine Learning course.
